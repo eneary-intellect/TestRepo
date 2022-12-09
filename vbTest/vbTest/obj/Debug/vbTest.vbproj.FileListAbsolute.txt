@@ -1,0 +1,12 @@
+C:\projects\misc\vbTest\vbTest\bin\Debug\vbTest.exe.config
+C:\projects\misc\vbTest\vbTest\bin\Debug\vbTest.exe
+C:\projects\misc\vbTest\vbTest\bin\Debug\vbTest.pdb
+C:\projects\misc\vbTest\vbTest\bin\Debug\vbTest.xml
+C:\projects\misc\vbTest\vbTest\obj\Debug\vbTest.vbproj.AssemblyReference.cache
+C:\projects\misc\vbTest\vbTest\obj\Debug\vbTest.vbproj.SuggestedBindingRedirects.cache
+C:\projects\misc\vbTest\vbTest\obj\Debug\vbTest.Resources.resources
+C:\projects\misc\vbTest\vbTest\obj\Debug\vbTest.vbproj.GenerateResource.cache
+C:\projects\misc\vbTest\vbTest\obj\Debug\vbTest.vbproj.CoreCompileInputs.cache
+C:\projects\misc\vbTest\vbTest\obj\Debug\vbTest.exe
+C:\projects\misc\vbTest\vbTest\obj\Debug\vbTest.xml
+C:\projects\misc\vbTest\vbTest\obj\Debug\vbTest.pdb
